@@ -1,0 +1,64 @@
+.nav{
+  text-align: center;
+}
+.container {
+  width: 80%;
+  
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #000;
+}
+
+
+button {
+  background-color: #4ECCA3;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0062cc;
+}
+button {
+  /* Other button styles */
+  margin-right: 30px;
+}
+
+
+h2{
+  font-family:"Allerta Stencil",cursive;
+  font-size: 2rem;
+  color: #fff;
+
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Allerta Stencil', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
